@@ -1,0 +1,2 @@
+document.getElementById("tour").addEventListener("click",()=>{window.open("../timeline/timeline.html","_blank")}),document.getElementById("podcast").addEventListener("click",()=>{window.open("podcast.html","_self")}),document.getElementById("quiz").addEventListener("click",()=>{window.open("https://www.wisc-online.com/arcade/games/humanities/history/30622/our-independence-back","_blank")});
+//# sourceMappingURL=index.9ab9fb83.js.map
